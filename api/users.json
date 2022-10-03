@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Midin",
+      "number": "+996550303814"
+    },
+    {
+      "id": 2,
+      "name": "Akram",
+      "number": "+996550303814"
+    },
+    {
+      "name": "midin2",
+      "number": "555",
+      "id": 3
+    },
+    {
+      "name": "midin2",
+      "number": "555",
+      "id": 4
+    }
+  ]
+}
